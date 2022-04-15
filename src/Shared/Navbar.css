@@ -1,0 +1,12 @@
+
+.nav-sec a{
+    text-decoration: none;
+    color: black;
+    margin-right: 10px;
+    padding:20px 20px;
+    font-weight: 600;
+}
+.icon{
+    width: 20px;
+  
+}
